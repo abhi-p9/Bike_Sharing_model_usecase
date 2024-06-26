@@ -79,4 +79,15 @@ By managing multicollinearity through VIF analysis, we ensure that our regressio
 
 This analysis provides insights into the factors influencing bike-sharing usage. Further steps could include developing predictive models and optimizing bike-sharing operations based on these insights.
 
+## Technologies Used
+- Jupyter notebook
+- Libraries - pandas, numpy, matplotlib.pyplot, seaborn
+- Model library - sklearn, statsmodels 
+
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
+## Acknowledgements
+Give credit here.
+- This project was inspired by upgrad/IIIT-B
+
 **Author -Abhishek Pathak**
